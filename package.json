@@ -1,0 +1,16 @@
+{
+    "name": "stay bots",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.6.0",
+      "dotenv": "^10.0.0"
+    },
+    "author": "ytxytxan",
+    "license": "ISC"
+  }
+  
